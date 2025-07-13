@@ -1,0 +1,10 @@
+query{
+    cheracter(id: 1){
+        id
+        name
+        status
+        species
+        type
+        grander
+    }
+}
